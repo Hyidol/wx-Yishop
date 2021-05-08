@@ -1,0 +1,8 @@
+/* pages/authorization/index.wxss */
+.getinfo_btn {
+  padding: 20rpx;
+  font-size: 26rpx;
+}
+.getinfo_btn button {
+  width: 60%;
+}

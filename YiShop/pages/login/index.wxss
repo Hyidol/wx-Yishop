@@ -1,0 +1,9 @@
+/* pages/login/index.wxss */
+.login_btn {
+    padding: 20rpx;
+    font-size: 26rpx;
+  }
+  .login_btn button {
+    width: 60%;
+  }
+  
